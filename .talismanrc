@@ -1,0 +1,16 @@
+fileignoreconfig:
+- filename: test-output/index.html
+  checksum: f8710a08bc5f6a86cbfff6aef94bff154735d5a278748956b39a62b80b6aa7a2
+- filename: test-output/emailable-report.html
+  checksum: bc8d154d9127cc2fee381389739a01f80206e0c5e2cd6587f41177c5f41a8786
+- filename: test-output/Default suite/Default test.html
+  checksum: a925959bdee8e0ba4a5fbec755bd6cb6c61574fd9d59bf7b006346ac61cba90e
+- filename: test-output/testng.css
+  checksum: a36444d750521047e534078a6898ea48d9aa0e44ee856c0d6b515579e5667be9
+- filename: test-output/old/index.html
+  checksum: 2a5707cb7bb849dd474252f20d763dce8814d5cd726bff5fc5e921ca352ade2e
+- filename: test-output/testng-results.xml
+  checksum: 35e22d6b5b6fbf91eadbc6480a8da5739dabf3d47b7b42c480378cb83b7e90fb
+- filename: test-output/jquery-3.6.0.min.js
+  checksum: 64cc8ba51e155f8091fab5fb398ba8e340524c723a3b56c50bb62f579a696c35
+version: ""
