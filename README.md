@@ -9,18 +9,21 @@ This repository contains a sample project of UI Test Automation using Selenium a
 6. Parameterized Tests
 
 
-#Setup
-Clone the repository to your local machine.
-Open the solution in IntelliJ Idea or eclipse
-Build the solution once.
+**Setup**  
+Clone the repository to your local machine.  
+Open the solution in IntelliJ Idea or eclipse. 
+Build the solution once.  
 
-#Run the tests
-1. Under src/test/java/cucumberOptions, there is a file testNGTestRunner. Right click on the respective file and run as testNG test.
-OR
-2. Open the terminal and give the command - mvn test
-OR
-3. To run the test with a particular tag you can use following command-
-mvn test -Dcucumber.filter.tags = “@smoke”
+**Run the tests**. 
+1. Under src/test/java/cucumberOptions, there is a file testNGTestRunner. Right click on the respective file and run as testNG test.    
+OR.  
+2. Open the terminal and give the command - mvn test   
+OR.  
+3. To run the test with a particular tag you can use following command-   
+mvn test -Dcucumber.filter.tags = “@smoke”. 
 
-#Dependencies
-To know about dependies you can refer to pom.xml file.
+**Dependencies**. 
+To know about dependies you can refer to pom.xml file.  
+
+**Resources**. 
+https://thoughtworks.udemy.com/course/cucumber-tutorial. 
