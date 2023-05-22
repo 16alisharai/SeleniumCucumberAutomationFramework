@@ -23,7 +23,7 @@ OR.
 mvn test -Dcucumber.filter.tags = “@smoke”. 
 
 **Dependencies**. 
-To know about dependies you can refer to pom.xml file.  
+To know about dependencies you can refer to pom.xml file.  
 
 **Resources**. 
 https://thoughtworks.udemy.com/course/cucumber-tutorial. 
