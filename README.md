@@ -5,8 +5,7 @@ This repository contains a sample project of UI Test Automation using Selenium a
 2. Reports- HTML, Json, Extent
 3. Single Responsibility Principle
 4. Dependency Injection
-5. Screenshots
-6. Parameterized Tests
+5. Screenshots- on test failure
 
 
 **Setup**  
