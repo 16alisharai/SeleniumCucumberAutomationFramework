@@ -1,4 +1,4 @@
-# SeleniumCucumberAutomationFramework
+# SeleniumCucumberAutomationFramework : Behavior driven development (BDD)
 
 This repository contains a sample project of UI Test Automation using Selenium and Cucumber with Java as programming language.The aim of this project is not to have more and more E2E testcases but to build a UI Test Automation framework with below capabilities-
 1. Page Object Model
