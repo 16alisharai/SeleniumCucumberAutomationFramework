@@ -14,6 +14,11 @@ Clone the repository to your local machine.
 Open the solution in IntelliJ Idea or eclipse. 
 Build the solution once.  
 
+**Writing A Test**
+
+The cucumber features goes in the features library and should have the ".feature" extension.
+You can start out by looking at features/first.feature. You can extend this feature or make your own features using some of the predefined steps that comes with selenium-cucumber.
+
 **Run the tests**. 
 1. Under src/test/java/cucumberOptions, there is a file testNGTestRunner. Right click on the respective file and run as testNG test.    
 OR.  
